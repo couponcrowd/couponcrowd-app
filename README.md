@@ -12,6 +12,24 @@ Stop losing coupons in emails, screenshots, paper mail, social media posts, What
 - [Download on the App Store](https://apps.apple.com/de/app/couponcrowd-gutschein-wallet/id6751547665)
 - [Get it on Google Play](https://play.google.com/store/apps/details?id=app.couponcrowd.couponcrowdapp)
 
+
+## Screenshots
+
+Screenshots from the Google Play listing:
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/nSSpShj1G99JO1CK3mfOCW6roQbM06ueFrIMbwo2M5KApVtYMim7BB3XcD-hSImtRKNiOFLNhW-xRlRztQMHiw=w526-h296" alt="CouponCrowd coupon wallet overview" width="180" />
+  <img src="https://play-lh.googleusercontent.com/doeT0oXpVHyu9gKWoP9Tu6WOFEVTCcPnb-ddiyElCZQQHHJjpeT5BqaDPGtjJyer2PwdCt1h6ElXQVOs9Bam=w526-h296" alt="CouponCrowd coupons always within reach" width="180" />
+  <img src="https://play-lh.googleusercontent.com/E5bgDm7vttkOWuyc5vo0Pu9U_o8Rydzjo9qfCY_yfsp7rGYZ945MR7CJS8Sg0ARNkxt-QeE8w0A5laFaddz8vA=w526-h296" alt="Add your own coupons in CouponCrowd" width="180" />
+</p>
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/wRv2J64Dl4XYEyh3abpoz4UdjjWjerV9iw0KWYNn3odeDfEflGvE5gqZEl6vBSiMaWvIfUb1O07-XIskWdG6Q_k=w526-h296" alt="Discover coupons for thousands of shops with CouponCrowd" width="180" />
+  <img src="https://play-lh.googleusercontent.com/OGvlZT3zF3rP_choG03oDhcyI5PjLBfPaPK_5dmyFJhUuCKEM_DLMSKySDj8LhaDBmvaQBefJmgVIbDvw-7q=w526-h296" alt="CouponCrowd expiry notifications" width="180" />
+  <img src="https://play-lh.googleusercontent.com/qtPYKYuPXHmjbPz6L2Jl5CEkEvUj88_iLmtrR9MJcDZNl7m6GwsJUS9ew8Wk1j6qad-GF-7TcYApOQGp_FDMCA=w526-h296" alt="CouponCrowd community features" width="180" />
+</p>
+
+
 ## Follow CouponCrowd
 
 Stay connected with CouponCrowd for coupon tips, app updates, product news, savings ideas, and short-form videos about smarter coupon management.
